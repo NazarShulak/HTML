@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+.size{
+    height: 150px;
+    width: 1900px;
+}
+.size_smaller{
+    height: 100px;
+    width: 1000px;
+}
+.size_very_small{
+    height: 50px;
+    width: 1000px;
+}
+.aside{
+    height: 200px;
+    width: 800px;
+}
+.green{
+    background: green;
+}
+.tomato{
+    background: tomato;
+}
+.red{
+    background: darkred;
+}
+.blue{
+    background: dodgerblue;
+}
+.general{
+
+    display:flex;
+    justify-content: space-between;
+}
+.right{
+
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-end;
+    height: 500px;
+}
+.bottom{
+    align-content: space-between;
+}
+.left{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

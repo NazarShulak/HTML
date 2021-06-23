@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: olivedrab;
+    padding: 5px;
+    font: 12pt sans-serif;
+
+}
+a{
+    color: black;
+    font: 20px bolder;
+}
+h1,h2,h5{
+    text-align: center;
+}
+.images{
+    background: darkolivegreen;
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid darkolivegreen;
+}
+.bottom {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+#story>p{
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}

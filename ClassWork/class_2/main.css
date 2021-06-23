@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin-left: 50px;
+    box-sizing: border-box;
+    font: 20px SansSerif;
+}
+.text{
+    padding-right: 100px;
+}
+h1,h2{
+    font:  30px caption  ;
+}
+h4{
+    text-align: center;
+}
+
+.contents{
+    width: 650px;
+    border: gray solid 1px;
+}
